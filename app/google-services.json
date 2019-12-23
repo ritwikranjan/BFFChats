@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084442431476",
+    "firebase_url": "https://bffchats-d7dc5.firebaseio.com",
+    "project_id": "bffchats-d7dc5",
+    "storage_bucket": "bffchats-d7dc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084442431476:android:7c5e0f90eea2429bbdf3a1",
+        "android_client_info": {
+          "package_name": "com.ritwik.bffchats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084442431476-6dufkleqv6cpaul9em0baj43u72jbp2g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ritwik.bffchats",
+            "certificate_hash": "f1b0aeae4b56434844cec517af52913b392f4847"
+          }
+        },
+        {
+          "client_id": "1084442431476-5tg20u32t4i1k76529gfvmeigh1fprve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJIl5z6TUZRkLqiegv-YhpD-xDnmrlqPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084442431476-5tg20u32t4i1k76529gfvmeigh1fprve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
